@@ -1,0 +1,26 @@
+============================================================
+🎓 FINAL PROJECT SUBMISSION FORM — DE361: Machine Learning
+============================================================
+
+📘 Course: DE361 — Machine Learning
+👩‍🏫 Instructor: Dr. Napa Sae-Bae
+📅 Submission Type: Final Project
+🧑‍🎓 Student Name: PHONRAWAT PHONGTHIPPANUT
+🆔 Student ID: 66102010249
+🧑‍🤝‍🧑 Group Members (if any): 66102010175 and 66102010584
+
+
+------------------------------------------------------------
+💻 SUBMISSION LINKS
+------------------------------------------------------------
+🔗 Google Colab Notebook (code + narrative)
+> https://colab.research.google.com/drive/1hmxP0DNmxVU_SsPkjSpMXvWiv8ZzIwDJ?usp=sharing
+
+🎥 Presentation Video (YouTube)
+> https://youtu.be/essfIuOh6u8?si=XITN-eOcYve71GH0
+
+🖼️ Presentation Slides (Canva)
+> https://www.canva.com/design/DAG2cMqZHRo/4XP2e45QOYlKbOVnWow2zQ/view?utm_content=DAG2cMqZHRo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a473ba54f
+
+------------------------------------------------------------
+
